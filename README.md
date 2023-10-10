@@ -1,9 +1,10 @@
 ### Olá! Eu sou o Luan Henrique, mas conhecido como Luan Sites; 👋
 -->
 - 🔭 No momento estou a procura de um trabalho de Desenvolvedor Web;
-- 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Unilavras e Técnico em Informática no Senac;
+- 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Unilavras; E sou formado em Técnico em Informática no Senac, Assistente Administrativo e HTML e CSS;
 - 📫 Siga-me no Instagram: @luansites
 - 😄 Pronomes: ele/dele
+- 🔗https://luansitescom.wordpress.com
 -->
 
 <div align="center">
